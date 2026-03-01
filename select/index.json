@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "It's Just Love!",
+  "base_artist": "大石ルミ",
+  "createdAt": "2026-03-01T08:40:14.264717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Just Love",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/01_It's_Just_Love_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Just Love!",
+      "artist": "大石ルミ",
+      "has_synced": true,
+      "path": "select/02_It's_Just_Love!_大石ルミ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It’s Just Love!",
+      "artist": "大石ルミ",
+      "has_synced": true,
+      "path": "select/03_It’s_Just_Love!_大石ルミ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Just Love",
+      "artist": "Strawbs",
+      "has_synced": false,
+      "path": "select/04_It's_Just_Love_Strawbs.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's just love",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/05_It's_just_love_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's just love",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/06_It's_just_love_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's just love",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/07_It's_just_love_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It’s Just Love",
+      "artist": "Nikka Costa",
+      "has_synced": true,
+      "path": "select/08_It’s_Just_Love_Nikka_Costa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Maybe It's Just Love",
+      "artist": "Justin Hayward",
+      "has_synced": false,
+      "path": "select/09_Maybe_It's_Just_Love_Justin_Hayward.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Just Love!",
+      "artist": "大石ルミ",
+      "has_synced": true,
+      "path": "select/10_It's_Just_Love!_大石ルミ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Just Love",
+      "artist": "大石ルミ",
+      "has_synced": true,
+      "path": "select/11_It's_Just_Love_大石ルミ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Just Love!",
+      "artist": "Oishi Rumi",
+      "has_synced": true,
+      "path": "select/12_It's_Just_Love!_Oishi_Rumi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's Just Love!",
+      "artist": "大石ルミ",
+      "has_synced": false,
+      "path": "select/pl_01_It's_Just_Love!_大石ルミ.txt"
+    }
+  ]
+}
